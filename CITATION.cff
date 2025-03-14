@@ -1,1 +1,11 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wei
+    given-names: Xijie
+title: "Mass time analisys code for UCL PHAS0008 T8 experimetn"
+version: 1.0.0
+identifiers:
+  - type: link
+    value: https://github.com/Xijie-Wei/UCLT8
+date-released: 14 March 2025
